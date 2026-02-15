@@ -217,7 +217,7 @@ timeline
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kallappa2005&repo=Kallappa2005&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9)](https://github.com/Kallappa2005/Kallappa2005)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kallappa2005&repo=ecommerce-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9)](https://github.com/Kallappa2005/ecommerce-app)
 
 </div>
 
