@@ -22,13 +22,13 @@ const kallappa = {
     pronouns: "He/Him",
     currentRole: "Paid Intern @ Anvehana Research Portal",
     company: "REVA University",
-    workingOn: "MERN Stack Development",
+    workingOn: "MERN Full Stack Development",
     location: "India 🇮🇳",
-    interests: ["Full Stack Development", "Machine Learning", "MLOps", "Cloud Computing"],
+    interests: ["MERN Full Stack Development", "Machine Learning", "MLOps", "DEVops","Cloud Computing"],
     funFact: "I debug faster when the deadline is closer! ⚡",
     lifePhilosophy: "Code with passion, deploy with confidence!",
-    askMeAbout: ["Web Dev", "ML Models", "Docker", "CI/CD Pipelines"],
-    currentlyLearning: ["Kubernetes", "AWS", "System Design", "Advanced React Patterns"]
+    askMeAbout: ["Web Dev", "ML Models", "Docker", "CI/CD Pipelines","Kubernetes","AWS"],
+    currentlyLearning: ["System Design", "Microservices","DSA","Agentic AI"]
 };
 ```
 
@@ -69,6 +69,11 @@ graph TB
     E --> E1[Linux & Git]
     E --> E2[Kubernetes]
     E --> E3[AWS Cloud]
+    E --> E4[Prometheus]
+    E --> E5[Grafana]
+    E --> E6[Loki]
+    E --> E7[Terraform]
+    E --> E8[Networking]
     
     style A fill:#ff6b6b,stroke:#c92a2a,stroke-width:3px,color:#fff
     style B fill:#4ecdc4,stroke:#006d77,stroke-width:2px,color:#000
@@ -116,6 +121,8 @@ graph TB
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 ![DagsHub](https://img.shields.io/badge/DagsHub-FF6B6B?style=for-the-badge&logo=dagshub&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -124,9 +131,14 @@ graph TB
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-2E7DFA?style=for-the-badge&logo=grafana&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0F766E?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🛠️ Tools & Others
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -204,8 +216,8 @@ timeline
 |--------|--------|-------------|
 | **Full Stack Development** | MERN Stack, REST APIs, Authentication | ⭐⭐⭐⭐⭐ |
 | **Machine Learning** | Model Training, Data Processing, MLflow | ⭐⭐⭐⭐ |
-| **MLOps** | DVC, Docker, CI/CD, DagsHub | ⭐⭐⭐⭐ |
-| **DevOps** | Linux, Git, Docker, Kubernetes, AWS | ⭐⭐⭐ |
+| **MLOps** | DVC, Docker, CI/CD, DagsHub, GitHub Actions | ⭐⭐⭐⭐ |
+| **DevOps** | Linux, Git, Docker, Kubernetes, AWS, Prometheus, Grafana, Loki, Terraform, Networking | ⭐⭐⭐ |
 | **Database Management** | MongoDB, PostgreSQL, Schema Design | ⭐⭐⭐⭐ |
 | **Cloud Computing** | AWS Basics, Deployment Strategies | ⭐⭐⭐ |
 
