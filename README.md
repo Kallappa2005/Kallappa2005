@@ -34,11 +34,22 @@ const kallappa = {
 
 <div align="center">
   
-  ### 💼 Currently Working On
+  ### 💼 Experience
   
   🔹 **Anvehana Research Portal** - MERN Stack Development  
   🔗 [Research Portal](https://researchportal.reva.edu.in/)
   
+</div>
+
+## 🧾 Offer Letters
+
+<div align="center">
+  <a href="./offer_letter.jpeg" target="_blank">
+    <img src="./offer_letter.jpeg" alt="Offer Letter 1" width="260" style="margin:0 8px;border:1px solid #e1e4e8;border-radius:6px;"/>
+  </a>
+  <a href="./offer_letter2.jpeg" target="_blank">
+    <img src="./offer_letter2.jpeg" alt="Offer Letter 2" width="260" style="margin:0 8px;border:1px solid #e1e4e8;border-radius:6px;"/>
+  </a>
 </div>
 
 ---
