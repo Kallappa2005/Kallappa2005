@@ -41,7 +41,7 @@ const kallappa = {
   
 </div>
 
-## 🧾 Offer Letters
+## 🧾 Offer Letter
 
 <div align="center">
   <a href="./offer_letter.jpeg" target="_blank">
@@ -161,16 +161,6 @@ graph TB
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kallappa2005&show_icons=true&count_private=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Kallappa's GitHub stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kallappa2005&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=0D1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff" alt="Kallappa's streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kallappa2005&layout=compact&hide_border=true&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Top languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kallappa2005&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kallappa2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
@@ -248,15 +238,7 @@ timeline
 
 ---
 
-## 💭 Developer Quote
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it's%20bad.&author=Cory%20House)
-
-</div>
-
----
 
 ## 📫 Let's Connect & Collaborate
 
@@ -283,40 +265,7 @@ timeline
 
 ---
 
-## 🎯 GitHub Metrics
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kallappa2005&theme=tokyonight" alt="GitHub Profile Summary" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kallappa2005&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kallappa2005&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kallappa2005&theme=tokyonight" width="32%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌈 "Building innovative solutions, one commit at a time!"
-
-**⭐ Star my repos if you find them interesting!**  
-**🍴 Fork and contribute to open source!**  
-**💡 Always learning, always growing!**
-
----
-
-### 🎨 Fun Fact Generator
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
----
-
-
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
