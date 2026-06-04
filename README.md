@@ -178,36 +178,7 @@ graph TB
 
 ---
 
-## 🎓 My Learning Roadmap
 
-<div align="center">
-
-```mermaid
-timeline
-    title My Technical Evolution Journey
-    2023 : Started with Programming Basics
-         : Learned C and Java fundamentals
-         : Built first web pages with HTML/CSS
-    2024 : Deep Dive into Full Stack
-         : Mastered MERN Stack
-         : Built production-ready applications
-         : Explored Machine Learning
-         : Implemented ML models
-    2025 : Advanced DevOps & MLOps
-         : Docker & Kubernetes
-         : CI/CD Pipelines
-         : DVC & MLflow integration
-         : Started with AWS Cloud
-         : Joined Anvehana as Paid Intern
-    2026 : System Design & Scalability
-         : Advanced Architecture Patterns
-         : Microservices
-         : Cloud Native Development
-```
-
-</div>
-
----
 
 ## 🏆 Expertise Areas
 
