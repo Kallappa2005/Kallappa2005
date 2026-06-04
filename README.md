@@ -8,7 +8,16 @@
   
 </div>
 
- 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kallappa2005&label=Profile%20Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Kallappa2005?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</p>
+
+---
+
+## 🚀 About Me
+
+```typescript
 const kallappa = {
     pronouns: "He/Him",
     currentRole: "Paid Intern @ Anvehana Research Portal",
