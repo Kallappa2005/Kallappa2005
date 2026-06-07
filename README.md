@@ -72,7 +72,7 @@ const kallappa = {
 - Reviewed and merged **40+ PRs**, ensuring code quality and consistency across contributions
 - Collaborated with **like-minded contributors** and fellow project admins to maintain project momentum and community health
 
-🔗 [GitHub Repo](https://github.com/Kallappa2005/ecommerce-app)
+🔗 [GitHub Repo](https://github.com/Kallappa2005/MLOPS_RED_WINE_QUALITY_PREDICTION)
 
 ---
 
