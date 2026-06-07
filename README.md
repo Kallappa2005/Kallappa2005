@@ -65,7 +65,7 @@ const kallappa = {
 - Identified gaps and created **7+ issues** covering backend enhancements, bug reports, and feature suggestions
 - Picked up existing issues raised by project admins for backend improvements, fixed them, and raised **8+ PRs** — all successfully merged
 
-### 🧑‍💼 Sub-section 2: Project Admin — * MLOPS-Wine-Quality-Prediction*
+### 🧑‍💼 Sub-section 2: Project Admin — MLOPS-Wine-Quality-Prediction
 
 - Selected as **Project Admin** for my own open source project under GSSoC 2026
 - Designed and created **starter issues and leveled issues** (Easy / Medium / Hard) for contributors to onboard smoothly
