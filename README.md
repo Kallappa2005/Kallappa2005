@@ -43,7 +43,7 @@ const kallappa = {
 
 ## 💼 Experience
 
-### 🔹 Backend Engineer Intern — Anvehana Research Portal, REVA University
+### 🔹 Backend Engineer Intern — Anveshana Research Portal, REVA University
 **Duration:** 6 Months (Paid Internship) &nbsp;|&nbsp; 🔗 [Live Demo](https://researchportal.reva.edu.in/)
 
 - Developed and maintained **full-stack features** across the research portal using the **MERN stack**
