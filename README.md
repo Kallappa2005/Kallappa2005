@@ -27,9 +27,8 @@
 const kallappa = {
     pronouns: "He/Him",
     education: "B.Tech Computer Science @ REVA University (2023–2027)",
-    currentRole: "Paid Intern @ Anvehana Research Portal",
     location: "Bengaluru, India 🇮🇳",
-    intro: "CS undergraduate building full-stack applications, AI/ML applications, and deploying MLOps & DevOps practices.",
+    intro: "CS undergraduate building full-stack applications, AI/ML applications, and deploying with MLOps & DevOps practices.",
     interests: [
         "Backend Systems & Scalable REST APIs",
         "End-to-End ML Pipelines using MLOps",
@@ -37,7 +36,6 @@ const kallappa = {
     ],
     currentlyLearning: ["System Design", "Microservices", "DSA", "Agentic AI"],
     funFact: "I debug faster when the deadline is closer! ⚡",
-    lifePhilosophy: "Code with passion, deploy with confidence!"
 };
 ```
 
@@ -91,7 +89,7 @@ const kallappa = {
 
 ## 💼 Experience
 
-### 🔹 Backend Engineer Intern — Anvehana Research Portal, REVA University
+### 🔹 Backend Engineer Intern — Anveshana Research Portal, REVA University
 **Duration:** 6 Months (Paid Internship) &nbsp;|&nbsp; 🔗 [Live Demo](https://researchportal.reva.edu.in/)
 
 - Developed and maintained **full-stack features** across the research portal using the **MERN stack**
@@ -113,12 +111,14 @@ const kallappa = {
 - Identified gaps and created **7+ issues** covering backend enhancements, bug reports, and feature suggestions
 - Picked up existing issues raised by project admins for backend improvements, fixed them, and raised **8+ PRs** — all successfully merged
 
-### 🧑‍💼 Sub-section 2: Project Admin — *ProSol: MLOPS-Wine-Quality-Prediction*
+### 🧑‍💼 Sub-section 2: Project Admin — MLOPS-Wine-Quality-Prediction
 
 - Selected as **Project Admin** for my own open source project under GSSoC 2026
 - Designed and created **starter issues and leveled issues** (Easy / Medium / Hard) for contributors to onboard smoothly
 - Reviewed and merged **40+ PRs**, ensuring code quality and consistency across contributions
 - Collaborated with **like-minded contributors** and fellow project admins to maintain project momentum and community health
+
+🔗 [GitHub Repo](https://github.com/Kallappa2005/MLOPS_RED_WINE_QUALITY_PREDICTION)
 
 ---
 
