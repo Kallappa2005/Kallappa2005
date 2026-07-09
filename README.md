@@ -41,7 +41,7 @@ const kallappa = {
 
 ---
 
-## 🏅 GSSoC 2026 Badges
+## 🏅 Open Source Contribution(GSSoC 2026)
 
 <div align="center">
   <table>
