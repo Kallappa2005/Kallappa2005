@@ -43,6 +43,52 @@ const kallappa = {
 
 ---
 
+## 🏅 GSSoC 2026 Badges
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="Gssoc_open.png" width="160"/><br/>
+        <sub><b>Open Source Contributor</b></sub>
+      </td>
+      <td align="center">
+        <img src="Gssoc_contributor.png" width="160"/><br/>
+        <sub><b>Contributor</b></sub>
+      </td>
+      <td align="center">
+        <img src="Gssoc_project_admin.png" width="160"/><br/>
+        <sub><b>Project Admin</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="Gssoc_PointScorer.png" width="160"/><br/>
+        <sub><b>Point Scorer</b></sub>
+      </td>
+      <td align="center">
+        <img src="Gssoc_RisingStar.png" width="160"/><br/>
+        <sub><b>Rising Star</b></sub>
+      </td>
+      <td align="center">
+        <img src="Gssoc_BuntyMaster.png" width="160"/><br/>
+        <sub><b>Bunty Master</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📄 Offer Letter
+
+<div align="center">
+  <img src="offer_letter.jpeg" width="45%" style="margin-right:10px;"/>
+  <img src="offer_letter2.jpeg" width="45%"/>
+</div>
+
+---
+
 ## 💼 Experience
 
 ### 🔹 Backend Engineer Intern — Anvehana Research Portal, REVA University
