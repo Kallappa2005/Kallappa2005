@@ -78,19 +78,19 @@ const kallappa = {
 
 ---
 
-## 📄 Offer Letter
+<!-- ## 📄 Offer Letter
 
 <div align="center">
   <img src="offer_letter.jpeg" width="45%" style="margin-right:10px;"/>
   <img src="offer_letter2.jpeg" width="45%"/>
 </div>
 
----
+--- -->
 
 ## 💼 Experience
 
 ### 🔹 Backend Engineer Intern — Anveshana Research Portal, REVA University
-**Duration:** 6 Months (Paid Internship) &nbsp;|&nbsp; 🔗 [Live Demo](https://researchportal.reva.edu.in/)
+**Duration:** 8 Months (Paid Internship) &nbsp;|&nbsp; 🔗 [Live Application](https://researchportal.reva.edu.in/)
 
 - Developed and maintained **full-stack features** across the research portal using the **MERN stack**
 - Architected and implemented the **backend system** powering core application modules with clean, modular code
@@ -104,14 +104,14 @@ const kallappa = {
 
 ## 🌐 Open Source Contributions — GSSoC 2026
 
-### 👨‍💻 Sub-section 1: Contributor
+### 👨‍💻 1: Contributor
 
 - Contributed to **2+ open source projects** as part of GSSoC 2026
 - Studied and understood the existing **backend systems** of both projects before contributing
 - Identified gaps and created **7+ issues** covering backend enhancements, bug reports, and feature suggestions
 - Picked up existing issues raised by project admins for backend improvements, fixed them, and raised **8+ PRs** — all successfully merged
 
-### 🧑‍💼 Sub-section 2: Project Admin — MLOPS-Wine-Quality-Prediction
+### 🧑‍💼 2: Project Admin — MLOPS-Wine-Quality-Prediction
 
 - Selected as **Project Admin** for my own open source project under GSSoC 2026
 - Designed and created **starter issues and leveled issues** (Easy / Medium / Hard) for contributors to onboard smoothly
